@@ -101,7 +101,7 @@
     "filepay": "^2.2.12",
     "geoip-lite": "^1.4.2",
     "get402": "^0.3.0",
-    "handlebars": "^4.1.0",
+    "handlebars": "^4.7.10",
     "hapi-auth-bearer-token": "^8.0.0",
     "hapi-boom-decorators": "^4.1.2",
     "hapi-k8s-health": "^1.1.1",
